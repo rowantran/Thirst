@@ -1,6 +1,10 @@
-#navbar {
-  color: red;
+#flexbox {
+  display: flex;
+  flex-direction: column;
 }
-div {
-  
+#navbar
+{
+  color: white;
+  background-color: #4b89ed;
+  height: 10%;
 }
