@@ -6,7 +6,7 @@
 {
   color: white;
   background-color: #4b89ed;
-  height: 10%;
+  height: 50;
   margin: 0;
-  overflow: hidden;
+  float: left;
 }
