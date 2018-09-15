@@ -25,3 +25,8 @@ body {
   height: 8px;
   background-color: grey;
 }
+#pic {
+  margin-left: 10px;
+  border-radius: 10%;
+
+}
