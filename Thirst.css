@@ -30,3 +30,15 @@ body {
   border-radius: 10%;
 
 }
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:active, a:visited {
+    color: #f2f2f2;
+}
+
+a:hover {
+    color: #acaaca;
+}
